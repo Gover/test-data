@@ -1,106 +1,104 @@
 {
-  "DEPARTMENT_CARS": [
-    {
-      "Departments": [
-        ["1888", "FORD \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
-        ["1887", "GEELY \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
-        ["1590", "KIA \u0413\u043e\u043c\u0435\u043b\u044c", null],
-        ["1591", "KIA \u041c\u043e\u0433\u0438\u043b\u0435\u0432", null],
-        [
-          "1588",
-          "KIA \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438",
-          null
-        ],
-        [
-          "1589",
-          "KIA \u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0430",
-          null
-        ],
-        ["1886", "MAZDA \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
-        [
-          "152",
-          "VOLKSWAGEN \u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c\u043d\u0430\u044f",
-          null
-        ],
-        [
-          "1520",
-          "VOLKSWAGEN \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439",
-          null
-        ],
-        [
-          "1522",
-          "VOLKSWAGEN \u0421\u0443\u0445\u0430\u0440\u0435\u0432\u043e",
-          null
-        ],
-        ["1523", "VOLKSWAGEN \u0423\u0440\u0443\u0447\u044c\u0435", null],
-        [
-          "1521",
-          "VOLKSWAGEN \u041a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u044f",
-          null
-        ]
+  "DEPARTMENT_CARS": {
+    "Departments": [
+      ["1888", "FORD \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
+      ["1887", "GEELY \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
+      ["1590", "KIA \u0413\u043e\u043c\u0435\u043b\u044c", null],
+      ["1591", "KIA \u041c\u043e\u0433\u0438\u043b\u0435\u0432", null],
+      [
+        "1588",
+        "KIA \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438",
+        null
       ],
-      "Cars": {
-        "1888": [
-          {
-            "ID": "584",
-            "NAME": "Z6FFXXESGFKL32959",
-            "LAST_NAME": "FORD BY KOMBI M1 310M BASE 2.2TD125T5 M6 FWD MWB 2",
-            "SECOND_NAME": "6988 \u041d\u0410-5",
-            "EMAIL": "z6ffxxesgfkl32959@atlantm.com",
-            "UF_DEPARTMENT": [1888],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:KOMBI M1 310M BASE 2.2TD125T5 M6 FWD MWB, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.2 TDCi, \u041b.\u0421.:92, \u041a\u041f\u041f:6MT, \u0433\u043e\u0441. \u2116:VK31MFRU, VIN:Z6FFXXESGFKL32959"
-          }
-        ],
-        "1887": [
-          {
-            "ID": "574",
-            "NAME": "Y4K8742D7KB308038",
-            "LAST_NAME": "GEELY BY ATLAS (NL-3),Luxury LED,1.8,4\u04454,\u0410\u041a\u041f\u041f6 1.8",
-            "SECOND_NAME": "6923 HI-5",
-            "EMAIL": "y4k8742d7kb308038@atlantm.com",
-            "UF_DEPARTMENT": [1887],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:ATLAS (NL-3),Luxury LED,1.8,4\u04454,\u0410\u041a\u041f\u041f6, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.8 TDB, \u041b.\u0421.:135, \u041a\u041f\u041f:6EAT, \u0433\u043e\u0441. \u2116:NL3184LEA6, VIN:Y4K8742D7KB308038"
-          },
-          {
-            "ID": "575",
-            "NAME": "Y4K8752Z0LB400014",
-            "LAST_NAME": "GEELY BY Emgrand X7, Flagship (GF),2.0,\u0410\u041a\u041f\u041f6, 4x2 ",
-            "SECOND_NAME": "5382 MI-5",
-            "EMAIL": "y4k8752z0lb400014@atlantm.com",
-            "UF_DEPARTMENT": [1887],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:Emgrand X7, Flagship (GF),2.0,\u0410\u041a\u041f\u041f6, 4x2, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.0, \u041b.\u0421.:102, \u041a\u041f\u041f:6EAT, \u0433\u043e\u0441. \u2116:NL422GFA6, VIN:Y4K8752Z0LB400014"
-          },
-          {
-            "ID": "576",
-            "NAME": "Y4K8622ZXLB900232",
-            "LAST_NAME": "GEELY BY COOLRAY, Flagship (DUAL),1.5,7DCT, 4x2 1.",
-            "SECOND_NAME": "9926 \u041d\u041a-5",
-            "EMAIL": "y4k8622zxlb900232@atlantm.com",
-            "UF_DEPARTMENT": [1887],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:COOLRAY, Flagship (DUAL),1.5,7DCT, 4x2, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.5 TD, \u041b.\u0421.:130, \u041a\u041f\u041f:7DCT, \u0433\u043e\u0441. \u2116:SX152FLA7, VIN:Y4K8622ZXLB900232"
-          },
-          {
-            "ID": "577",
-            "NAME": "Y4K8844W9LB001094",
-            "LAST_NAME": "GEELY BY Emgrand 7 (FE-3), Luxury, 1.8, CVT 1.8",
-            "SECOND_NAME": "5413 HI-5",
-            "EMAIL": "y4k8844w9lb001094@atlantm.com",
-            "UF_DEPARTMENT": [1887],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:Emgrand 7 (FE-3), Luxury, 1.8, CVT, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.8, \u041b.\u0421.:98, \u041a\u041f\u041f:CVT, \u0433\u043e\u0441. \u2116:FE3JC182L7D, VIN:Y4K8844W9LB001094"
-          },
-          {
-            "ID": "578",
-            "NAME": "L6T7852D5LD003107",
-            "LAST_NAME": "GEELY BY TUGELLA(FY11), Flagship, 2.0, A\u041a\u041f\u041f8, 4x4 ",
-            "SECOND_NAME": "4455 \u041d\u041a-5",
-            "EMAIL": "l6t7852d5ld003107@atlantm.com",
-            "UF_DEPARTMENT": [1887],
-            "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:TUGELLA(FY11), Flagship, 2.0, A\u041a\u041f\u041f8, 4x4, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.0, \u041b.\u0421.:0, \u041a\u041f\u041f:8EAT, \u0433\u043e\u0441. \u2116:FY11204GFAT, VIN:L6T7852D5LD003107"
-          }
-        ]
-      }
+      [
+        "1589",
+        "KIA \u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0430",
+        null
+      ],
+      ["1886", "MAZDA \u0411\u043e\u0440\u043e\u0432\u0430\u044f", null],
+      [
+        "152",
+        "VOLKSWAGEN \u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c\u043d\u0430\u044f",
+        null
+      ],
+      [
+        "1520",
+        "VOLKSWAGEN \u041c\u0430\u0448\u0438\u043d\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u0435\u0439",
+        null
+      ],
+      [
+        "1522",
+        "VOLKSWAGEN \u0421\u0443\u0445\u0430\u0440\u0435\u0432\u043e",
+        null
+      ],
+      ["1523", "VOLKSWAGEN \u0423\u0440\u0443\u0447\u044c\u0435", null],
+      [
+        "1521",
+        "VOLKSWAGEN \u041a\u0430\u043c\u0435\u043d\u043d\u043e\u0433\u043e\u0440\u0441\u043a\u0430\u044f",
+        null
+      ]
+    ],
+    "Cars": {
+      "1888": [
+        {
+          "ID": "584",
+          "NAME": "Z6FFXXESGFKL32959",
+          "LAST_NAME": "FORD BY KOMBI M1 310M BASE 2.2TD125T5 M6 FWD MWB 2",
+          "SECOND_NAME": "6988 \u041d\u0410-5",
+          "EMAIL": "z6ffxxesgfkl32959@atlantm.com",
+          "UF_DEPARTMENT": [1888],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:KOMBI M1 310M BASE 2.2TD125T5 M6 FWD MWB, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.2 TDCi, \u041b.\u0421.:92, \u041a\u041f\u041f:6MT, \u0433\u043e\u0441. \u2116:VK31MFRU, VIN:Z6FFXXESGFKL32959"
+        }
+      ],
+      "1887": [
+        {
+          "ID": "574",
+          "NAME": "Y4K8742D7KB308038",
+          "LAST_NAME": "GEELY BY ATLAS (NL-3),Luxury LED,1.8,4\u04454,\u0410\u041a\u041f\u041f6 1.8",
+          "SECOND_NAME": "6923 HI-5",
+          "EMAIL": "y4k8742d7kb308038@atlantm.com",
+          "UF_DEPARTMENT": [1887],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:ATLAS (NL-3),Luxury LED,1.8,4\u04454,\u0410\u041a\u041f\u041f6, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.8 TDB, \u041b.\u0421.:135, \u041a\u041f\u041f:6EAT, \u0433\u043e\u0441. \u2116:NL3184LEA6, VIN:Y4K8742D7KB308038"
+        },
+        {
+          "ID": "575",
+          "NAME": "Y4K8752Z0LB400014",
+          "LAST_NAME": "GEELY BY Emgrand X7, Flagship (GF),2.0,\u0410\u041a\u041f\u041f6, 4x2 ",
+          "SECOND_NAME": "5382 MI-5",
+          "EMAIL": "y4k8752z0lb400014@atlantm.com",
+          "UF_DEPARTMENT": [1887],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:Emgrand X7, Flagship (GF),2.0,\u0410\u041a\u041f\u041f6, 4x2, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.0, \u041b.\u0421.:102, \u041a\u041f\u041f:6EAT, \u0433\u043e\u0441. \u2116:NL422GFA6, VIN:Y4K8752Z0LB400014"
+        },
+        {
+          "ID": "576",
+          "NAME": "Y4K8622ZXLB900232",
+          "LAST_NAME": "GEELY BY COOLRAY, Flagship (DUAL),1.5,7DCT, 4x2 1.",
+          "SECOND_NAME": "9926 \u041d\u041a-5",
+          "EMAIL": "y4k8622zxlb900232@atlantm.com",
+          "UF_DEPARTMENT": [1887],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:COOLRAY, Flagship (DUAL),1.5,7DCT, 4x2, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.5 TD, \u041b.\u0421.:130, \u041a\u041f\u041f:7DCT, \u0433\u043e\u0441. \u2116:SX152FLA7, VIN:Y4K8622ZXLB900232"
+        },
+        {
+          "ID": "577",
+          "NAME": "Y4K8844W9LB001094",
+          "LAST_NAME": "GEELY BY Emgrand 7 (FE-3), Luxury, 1.8, CVT 1.8",
+          "SECOND_NAME": "5413 HI-5",
+          "EMAIL": "y4k8844w9lb001094@atlantm.com",
+          "UF_DEPARTMENT": [1887],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:Emgrand 7 (FE-3), Luxury, 1.8, CVT, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:1.8, \u041b.\u0421.:98, \u041a\u041f\u041f:CVT, \u0433\u043e\u0441. \u2116:FE3JC182L7D, VIN:Y4K8844W9LB001094"
+        },
+        {
+          "ID": "578",
+          "NAME": "L6T7852D5LD003107",
+          "LAST_NAME": "GEELY BY TUGELLA(FY11), Flagship, 2.0, A\u041a\u041f\u041f8, 4x4 ",
+          "SECOND_NAME": "4455 \u041d\u041a-5",
+          "EMAIL": "l6t7852d5ld003107@atlantm.com",
+          "UF_DEPARTMENT": [1887],
+          "UF_TEST_DRIVE": "\u041c\u043e\u0434\u0435\u043b\u044c:TUGELLA(FY11), Flagship, 2.0, A\u041a\u041f\u041f8, 4x4, \u0414\u0432\u0438\u0433\u0430\u0442\u0435\u043b\u044c:2.0, \u041b.\u0421.:0, \u041a\u041f\u041f:8EAT, \u0433\u043e\u0441. \u2116:FY11204GFAT, VIN:L6T7852D5LD003107"
+        }
+      ]
     }
-  ],
+  },
   "LOGBOOK_CARS": [
     {
       "ID": "1",
